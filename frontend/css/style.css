@@ -1,0 +1,16 @@
+img {
+  max-width: 250px;
+  display: block;
+}
+
+ul li {
+  list-style: none;
+}
+
+.dog-li {
+  margin-top: 40px;
+}
+
+#new-dog-form-wrapper {
+  margin-top: 40px;
+}
